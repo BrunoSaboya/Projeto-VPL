@@ -10,11 +10,11 @@ utilizando o endpoint criado no passo anterior
 Instruções de uso:
 
 ### 1 Clone o repositório:
-  ´´´ python
+  ``` python
   {
   git clone https://github.com/BrunoSaboya/Projeto-VPL
   }
-  ´´´
+  ```
   ´cd calculadora_fundos´
 
 ### 2 Criar e ativar um ambiente virtual:

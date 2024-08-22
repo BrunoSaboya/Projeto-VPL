@@ -42,8 +42,9 @@ Instruções de uso:
   python manage.py runserver
   ```
 
+#### Considerações:
 
-
+- Configurações de Banco de Dados: Se o projeto for apresentado em uma máquina diferente, certifique-se de que o banco de dados PostgreSQL está configurado e acessível. O arquivo settings.py pode precisar ser ajustado para refletir as credenciais do banco de dados na nova máquina.
 
 
 

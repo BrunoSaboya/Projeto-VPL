@@ -11,23 +11,47 @@ Instruções de uso:
 
 ### 1 Clone o repositório:
   ```
-  python git clone https://github.com/BrunoSaboya/Projeto-VPL
+  git clone https://github.com/BrunoSaboya/Projeto-VPL
+  cd calculadora_fundos
   ```
-  ´cd calculadora_fundos´
 
 ### 2 Criar e ativar um ambiente virtual:
   Windows:
-  ´python -m venv venv´
-  ´venv\Scripts\activate´
+  ```
+  python -m venv venv
+  venv\Scripts\activate
+  ```
   Linux/MacOS:
-  ´python3 -m venv venv´
-  ´source venv/bin/activate´
+  ```
+  python3 -m venv venv
+  source venv/bin/activate
+  ```
 
 ### 3 Instalar as dependências:
-  ´pip install -r requirements.txt´
+  ```
+  pip install -r requirements.txt
+  ``` 
 
 ### 4 Realizar migrações do Banco de Dados:
-  ´python manage.py migrate´
+  ```
+  python manage.py migrate
+  ```
 
 ### 5 Rodar o servidor de desenvolvimento:
-  ´python manage.py runserver´
+  ```
+  python manage.py runserver
+  ```
+
+
+
+
+
+
+
+
+
+
+
+
+
+

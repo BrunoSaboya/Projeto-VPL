@@ -10,10 +10,8 @@ utilizando o endpoint criado no passo anterior
 Instruções de uso:
 
 ### 1 Clone o repositório:
-  ``` python
-  {
-  git clone https://github.com/BrunoSaboya/Projeto-VPL
-  }
+  ```
+  python git clone https://github.com/BrunoSaboya/Projeto-VPL
   ```
   ´cd calculadora_fundos´
 

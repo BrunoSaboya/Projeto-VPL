@@ -1,6 +1,10 @@
 from django.http import JsonResponse
 from .models import FundoInvestimento
 from django.shortcuts import get_object_or_404
+from django.shortcuts import render
+
+def index(request):
+    return render(request, 'fundos/index.html')
 
 def calcular_retorno(request, cnpj_fundo):
     try:

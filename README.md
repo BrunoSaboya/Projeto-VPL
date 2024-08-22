@@ -46,7 +46,7 @@ Instruções de uso:
 
 - Configurações de Banco de Dados: Se o projeto for apresentado em uma máquina diferente, certifique-se de que o banco de dados PostgreSQL está configurado e acessível. O arquivo settings.py pode precisar ser ajustado para refletir as credenciais do banco de dados na nova máquina.
 
-
+- O arquivo dados.py precisa ser alterado com as informações de cada máquina caso deseja ser rodado e criado o banco de dados anteriormente com as credenciais pessoais.
 
 
 
